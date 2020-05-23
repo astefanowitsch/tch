@@ -1,0 +1,66 @@
+#---------------------------------------------------------------------------
+#
+# User:    <unknown> (<unknown>)
+# Date:    Sat May 23 13:24:03 2020
+# Corpus:  bnc2014-s (BRITISH NATIONAL CORPUS 2014 SPOKEN PART)
+# Name:    BNC2014-S:Last
+# Size:    55 intervals/matches
+# Context: 2 u left, 2 u right
+#
+# Query: BNC2014-S; [word="literally"%c] :: match.u_who="S0450";
+#---------------------------------------------------------------------------
+  4471149: <u_who S0450>:  <u>everybody says Wicked 's so good but I 've never seen it</u> <u>it 's <literally> like it 's the best one even if i- ea- it 's be- erm it 's better than Lion King</u> <u>oh really ?</u>
+  4471593: <u_who S0450>:  <u>and it 's really sad like there was a girl who obviously like her simply her personal preference but she had really big afro hair like I kid you not it was a massive bouffant</u> <u>ah so it 's sh- so you could n't <literally> go like round the head</u> <u>yeah and I felt so bad for the person who was sat behind her I was like no offence you 're going to a theatre like try and tie it up</u>
+  4471960: <u_who S0450>:  <u>yeah</u> <u>so when I stood outside for like twelve hours in a day <literally> just dying</u> <u>oh yeah I went to see erm do n't judge me I went to Enrique Iglesias</u>
+  4472468: <u_who S0450>:  <u>you know like</u> <u>I 've been to that Vaccines one a proper gig like <literally> like people stand close to you and like</u> <u>exactly</u>
+  4473281: <u_who S0450>:  <u>yeah I heard that</u> <u>it 's <literally> like the ticket the train is like under five Eu-</u> <u>yeah</u>
+  4474381: <u_who S0450>:  <u>mm</u> <u>and then nearly br- and I offered that to brother cos he was home and anyone in Europe for that time he would <literally> like go that weekend</u> <u>yeah</u>
+  4476952: <u_who S0450>:  <u>I love snacks</u> <u>if not I would <literally> be like dying in that room like Post-it notes talking about ah</u> <u>we have erm we call it the trans fat table</u>
+  4477084: <u_who S0450>:  <u>yeah</u> <u>it 's the days you want something there 's nothing there the days you do n't want something it 's <literally> like full in your face</u> <u>yeah</u>
+  4477154: <u_who S0450>:  <u>start and end of the week</u> <u>but I do know I do find that I go to that ta- like I 'm I 'm I 'm just a snack person like I <literally> will snack if there 's food that I 've not paid for and it 's there and it looks good like</u> <u>yeah</u>
+  4478109: <u_who S0450>:  <u>but so --ANONnameF any any boy any boy on the scene ?</u> <u>not since the last one I 've <literally> been working</u> <u>yeah</u>
+ 11344666: <u_who S0450>:  <u>yeah because</u> <u>and you ca n't find time any time but I think the last few weekends I 've <literally> just been doing nothing so I 've saved so much money</u> <u>see that 's like looking a bit opposite to me in the last few weekends I 've literally been so manic</u>
+ 11345302: <u_who S0450>:  <u>rout- routine as well</u> <u>is that when you 'd <literally> go for an hour like literally just constant nonstop spinning ? I do n't know</u> <u>er no the spinning like er it 's a class</u>
+ 11345308: <u_who S0450>:  <u>rout- routine as well</u> <u>is that when you 'd literally go for an hour like <literally> just constant nonstop spinning ? I do n't know</u> <u>er no the spinning like er it 's a class</u>
+ 11347921: <u_who S0450>:  <u>yeah</u> <u>but then I had the flu so the gross I <literally> was so</u> <u>the flu</u>
+ 11348091: <u_who S0450>:  <u>yeah</u> <u>and I <literally> just felt awful</u> <u>is that where the big rocks are ? that sounds really stupid but there this famous</u>
+ 11348407: <u_who S0450>:  <u>sod it no --UNCLEARWORD</u> <u>two and a half hours to get back and I <literally> would only be there for about</u> <u>yeah</u>
+ 11348749: <u_who S0450>:  <u>yeah</u> <u>went to --ANONplace for that week for a day <literally</u>> <u>yeah</u>
+ 11348919: <u_who S0450>:  <u>she was nice</u> <u>it was a it was a nice trip and er <literally</u>> <u>yeah</u>
+ 11349222: <u_who S0450>:  <u>you can go you know you can go to London zoo but they have --ANONplace zoo and there 's pandas there and I wan na see a panda</u> <u>I love love a panda I need to plan my holidays more but I was about to say I <literally> have n't I 've only taken two days like for my holiday</u> <u>oh my god</u>
+ 11350253: <u_who S0450>:  <u>they 're rea- it 's really nice</u> <u>this guy who I work with who sits opposite me he <literally> goes on like holiday like every few months</u> <u>I think and literally like tells us all about you know it 's it 's great he spends so much money on like</u>
+ 11350265: <u_who S0450>:  <u>this guy who I work with who sits opposite me he literally goes on like holiday like every few months</u> <u>I think and <literally> like tells us all about you know it 's it 's great he spends so much money on like</u> <u>yeah</u>
+ 11350318: <u_who S0450>:  <u>yeah</u> <u>better position than all of them and he <literally> just spends all his money and has no savings but gets to see the world</u> <u>exactly you 've got to balance it have n't you ? like I think in the winter I save and then in the summer I spend</u>
+ 11351246: <u_who S0450>:  <u>you 'd be rinsed in London would n't you ?</u> <u>I would <literally> I would have no cos I cos I went to see --ANONnameM and the girls in like</u> <u>yeah</u>
+ 11351328: <u_who S0450>:  <u>yeah</u> <u>and er er I can remember when I was living in London a few years ago you just have no money to go and do things and you <literally> have like</u> <u>yeah</u>
+ 11351942: <u_who S0450>:  <u>they 'll keep you on</u> <u>all this time <literally> like we had reviews you know like April May time but no one knew what was going on like people were changing roles again or</u> <u>yeah</u>
+ 11352048: <u_who S0450>:  <u>keep you cos what 's the point of training you for two years to let you go ? unless you 're like shocking which obviously you 're not</u> <u>yeah cos it wa- other thing if th- if I was so bad they would lea- like they 'd let me go like years like <literally</u>> <u>yeah</u>
+ 11352456: <u_who S0450>:  <u>when she does come back she 's only coming back part time</u> <u>so then she 's <literally> not gon na be there</u> <u>no</u>
+ 11359655: <u_who S0450>:  <u>yeah</u> <u>and we spent half an hour <literally> just like</u> <u>driving round and driving</u>
+ 11359984: <u_who S0450>:  <u>thank you very much</u> <u>I 'm <literally> like a big child like I just ca n't</u> <u>a big child</u>
+ 11361007: <u_who S0450>:  <u>yeah</u> <u>when they 're yeah I feel more lazy when they 're around when they 're not around just <literally> go and do what I wa- well I do stuff anyway but I mean</u> <u>mm</u>
+ 11361155: <u_who S0450>:  <u>see my parents</u> <u>and <literally</u>> <u>are normally quite thankful and they</u>
+ 11361684: <u_who S0450>:  <u>no</u> <<u>literally> cos I went past I think I was at erm --ANONplace</u> <u>yeah</u>
+ 11361716: <u_who S0450>:  <u>yeah</u> <u>they <literally> live round the corner I do n't I do n't think --ANONnameM I did n't know where --ANONnameM lives like these days but but like but I guess you just do n't see people anymore do you ?</u> <u>no</u>
+ 11362742: <u_who S0450>:  <u>come</u> <u>yeah it 's like one of my my one of my well my best friend I 've <literally> saw her when we went to Dublin and since then she just always been busy but then sh- when she comes home she 's like oh I 'm doing I 'm doing this and this but she 's actually not really doing a lot</u> <u>yeah</u>
+ 11363537: <u_who S0450>:  <u>no no I mean</u> <u>she was <literally> just not not not laughing at all ?</u> <u>yeah so like me and him were just laughing and then he had to turn round and explain the jokes to his girlfriend</u>
+ 11363750: <u_who S0450>:  <u>I ca n't deal with him as much I do n't find him as funny I 'm not as fan of like</u> <<u>literally> he cracks me up like well it 's I think how he says thing it just literally just gets me</u> <u>mm</u>
+ 11363767: <u_who S0450>:  <u>I ca n't deal with him as much I do n't find him as funny I 'm not as fan of like</u> <u>literally he cracks me up like well it 's I think how he says thing it just <literally> just gets me</u> <u>mm</u>
+ 11365224: <u_who S0450>:  <u>yeah</u> <u>and <literally> I took one day off in August</u> <u>I ca n't believe that was I ca n't believe that was nearly a year ago</u>
+ 11365960: <u_who S0450>:  <u>oh</u> <u>yeah it was --ANONnameF I think --ANONnameF and --ANONnameF and they <literally> nearly I think in in in a in a bar they nearly r- ratted it out</u> <u>oh shit</u>
+ 11366356: <u_who S0450>:  <u>yeah</u> <u>if even if I went out I 'd <literally> be like er I do n't wan na be</u> <u>going up an edge but some of the views are just to die for though</u>
+ 11366467: <u_who S0450>:  <u>yeah that 's the thing I quite like the views</u> <u>and just and and actually the easy slopes like when you can actually just go really fast like but you know the easy green so it 's like you 're not really in difficulty of going down just <literally> just go fast and go straight that is what I enjoyed more</u> <u>yeah</u>
+ 11366598: <u_who S0450>:  <u>yeah</u> <u>and there was like four of us erm I <literally> I think the day before I had just I 'd strained my knee</u> <u>yeah</u>
+ 11366630: <u_who S0450>:  <u>yeah</u> <u>and I 'd strained my leg so I did n't really wan na do anything hard like <literally> the effort</u> <u>yeah</u>
+ 11366738: <u_who S0450>:  <u>and then I went down and then I kind of cos there was like a massive like loads of different so I went down the wrong one</u> <u>and then <literally> I was following the signs but the signs basically this was I think it was Courchevel and there 's Courchevel like</u> <u>oh</u>
+ 11366848: <u_who S0450>:  <u>yeah</u> <u>week and I picked it I <literally> had one so I sat like for twenty minutes like I sat down and I was like trying to work out where I was and then realised I was I 'd gone down an extra s- slope</u> <u>oh</u>
+ 11367077: <u_who S0450>:  <u>yeah</u> <u>so there was n't actually that many people ? and then she called me back again and she was like so where are you ? and I was like yeah I 've worked out where I am I 'll be there soon I <literally> was an hour and a half</u> <u>oh no</u>
+ 11367223: <u_who S0450>:  <u>yeah</u> <u>and it 's just easier just drag <literally> like literally go for like</u> <u>yeah</u>
+ 11367225: <u_who S0450>:  <u>yeah</u> <u>and it 's just easier just drag literally like <literally> go for like</u> <u>yeah</u>
+ 11368275: <u_who S0450>:  <u>yeah</u> <<u>literally> like I 'd be like tos- if it 's too hot I 'll be tossing and turning like it 's too hot</u> <u>yeah</u>
+ 11368496: <u_who S0450>:  <u>and it 's kind of</u> <u>just <literally> one day ?</u> <u>literally like the one and a half days in Barcelona</u>
+ 11368552: <u_who S0450>:  <u>yeah exactly</u> <u>I 'm kind of thinking where I 've been for one day and <literally> doing stuff</u> <u>yeah it 's really weird</u>
+ 11369545: <u_who S0450>:  <u>I would just book it I 'd just go like for seventy quid ? bargain</u> <u>yeah I 've like er cos I I 'm I 'm <literally> open for anything cos I can just spend what I want on holidays</u> <u>mm</u>
+ 11370161: <u_who S0450>:  <u>yeah</u> <u>an hour and a half <literally> took us an hour and door to door about an hour and a half</u> <u>I probably even thought it was shorter than an hour and a half</u>
+ 11370905: <u_who S0450>:  <u>no</u> <u>probably the worst thing being out though so my brother 's got it really bad and he <literally> is like coughs and sneeze the house down and like it 's worse indoors than it is outdoors</u> <u>yeah</u>
+ 11370934: <u_who S0450>:  <u>yeah</u> <u>that 's what I think it is but like <literally> like in the physically dying inside</u> <u>oh</u>
